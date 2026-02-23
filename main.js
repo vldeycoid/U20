@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/18B9i8yvSe/");
+    window.open("https://www.facebook.com/bogi.parmajery");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
@@ -34,6 +34,7 @@ overlay.addEventListener("click", () => {
     // Aksi setelah klik
     window.open("https://s.shopee.co.id/3fyKOgFN2E", "_blank");
 });
+
 
 
 
